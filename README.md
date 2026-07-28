@@ -1,12 +1,12 @@
-📄 CV — Camille Robichon
+# 📄 Curriculum Vitae — Camille Robichon
 
-R&D Scientist in Food Chemistry — Lipid Oxidation & Antioxidant Kinetics
+**PhD Candidate in Food Science**  
+**R&D Scientist | Lipid Chemistry • Lipid Oxidation • Antioxidant Kinetics • Delivery Systems**
 
-This repository contains the LaTeX source and compiled PDF of my academic CV, designed for international postdoctoral applications  and industry R&D roles in lipid chemistry, oxidation kinetics, bioactive delivery systems, functional compounds,...
+This repository contains the LaTeX source code and the compiled PDF of my academic curriculum vitae. It is maintained as the most up-to-date version of my CV for international postdoctoral opportunities and research & development positions in academia and industry.
 
+## 📁 Repository Contents
 
-📁 Repository content
-cv.tex       → LaTeX source (ModernCV format)
-cv.pdf       → Compiled CV for direct reading
-README.md    → This file
-
+- **cv.tex** – LaTeX source code (ModernCV template)
+- **Camille_Robichon_CV.pdf** – Latest compiled version of my CV
+- **README.md** – Repository description
